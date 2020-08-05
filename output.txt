@@ -1,0 +1,135 @@
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+Tensor("Mean_20:0", shape=(), dtype=float32)
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+Tensor("Mean_20:0", shape=(), dtype=float32)
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+0.0
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+0.0
+0.0
+=== Beginning new Trial ===
+Tensor("Mean_20:0", shape=(), dtype=float32)
+=== Beginning new Trial ===
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.5
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+=== Beginning new Trial ===
+0.5
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.0
+=== Beginning new Trial ===
+0.5
+0.5
